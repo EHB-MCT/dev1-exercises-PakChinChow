@@ -21,7 +21,7 @@ function drawName(){
     context.moveTo(50,50);
     context.lineTo(100, 50);
     context.stroke();
-    
+
     context.lineWidth =5;
     context.strokeStyle ="Blue";
     context.beginPath();
